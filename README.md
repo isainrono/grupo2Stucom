@@ -2,6 +2,6 @@
 
 | Miembro     | Rol en el equipo | Comando Git que más te ha costado |
 |-------------|------------------|-----------------------------------|
-| (miembro A) |                  |                                   |
+| (miembro A) |   isain          |           git init                |
 | (miembro B) |                  |                                   |
 | (miembro C) |                  |                                   |
