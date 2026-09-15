@@ -4,4 +4,4 @@
 |-------------|------------------|-----------------------------------|
 | (miembro A) |   isain          |           git init                |
 | (miembro B) |   isaac          |          git config               |
-| (miembro C) |                  |                                   |
+| (miembro C) |   xavi           |           git clone               |
