@@ -1,4 +1,4 @@
 # Política de seguridad del equipo
 
-Contacto de seguridad: (pendiente)
-Última revisión: (pendiente)
+Contacto de seguridad: (Isaac Garcia Antunez)
+Última revisión: (18:38)
