@@ -4,8 +4,8 @@ Estado global: 1/3 completado
 
 
 - [X] (ítem A, Isain lo que sea)
-- [x] (ítem B, pendiente)
-- [X] (ítem C, pendiente)
+- [ ] (ítem B, pendiente)
+- [ ] (ítem C, pendiente)
 
 
 
