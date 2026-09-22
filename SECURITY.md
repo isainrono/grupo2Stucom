@@ -9,3 +9,4 @@ Contacto de seguridad: (Isaac Garcia Antunez)
 Contacto de seguridad: (Isain Rodriguez Noreña)
 Última revisión: (jueves, 17 de septiembre de 2026, 18:42:12 CEST)
 
+Esta ultima linea es de isain rodriguez
