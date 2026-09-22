@@ -3,7 +3,7 @@
 Estado global: 3/3 completado
 
 
-- [X] (ítem A, pendiente)
-- [x] (ítem B, pendiente)
+- [ ] (ítem A, pendiente)
+- [ ] (ítem B, pendiente)
 - [X] (ítem C, xavi subias)
 
